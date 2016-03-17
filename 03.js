@@ -44,4 +44,3 @@ var player = new Player(+x, +y, name);
 player.damage();
 player.move(7, 8);
 console.log(player.toString());
-
